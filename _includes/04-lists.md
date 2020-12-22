@@ -1,5 +1,5 @@
-# Here is a list of my favourite things:
-- Long walkson the beach
+# Here is a list of some things:
+- Long walks on the beach
 - Disco Dancing
 - Open Source
 - Learning Git and Github
